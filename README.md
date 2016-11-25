@@ -1,0 +1,1 @@
+![image 1](https://github.com/ihrupin/CalendarDayViewAlgorithm/blob/master/img/events.jpg)
