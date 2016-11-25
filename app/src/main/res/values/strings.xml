@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Calendar DayView Algorithm</string>
+    <string name="event_name_format">%s</string>
 </resources>
