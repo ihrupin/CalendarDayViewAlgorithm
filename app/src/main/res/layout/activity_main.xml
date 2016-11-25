@@ -7,14 +7,8 @@
     android:orientation="vertical"
     tools:context="com.hrupin.calendardayviewalgorithm.MainActivity">
 
-    <Button
-        android:id="@+id/button"
+    <fragment
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Redraw"/>
-
-    <com.hrupin.calendardayviewalgorithm.DrawRectanglesView
-        android:id="@+id/draw_rect_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        class="com.hrupin.calendardayviewalgorithm.CalendarFragment"/>
 </LinearLayout>

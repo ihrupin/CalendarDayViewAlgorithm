@@ -1,4 +1,4 @@
-package com.hrupin.calendardayviewalgorithm.math;
+package com.hrupin.calendardayviewalgorithm;
 
 import android.graphics.Rect;
 
