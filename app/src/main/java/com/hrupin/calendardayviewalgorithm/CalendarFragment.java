@@ -4,15 +4,15 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.hrupin.calendardayviewalgorithm.view.Clique;
-import com.hrupin.calendardayviewalgorithm.view.Cluster;
+import com.hrupin.calendardayviewalgorithm.domain.Clique;
+import com.hrupin.calendardayviewalgorithm.domain.Cluster;
+import com.hrupin.calendardayviewalgorithm.domain.Event;
 
 import java.util.ArrayList;
 import java.util.Collections;

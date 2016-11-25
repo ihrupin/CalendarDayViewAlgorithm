@@ -1,6 +1,4 @@
-package com.hrupin.calendardayviewalgorithm.view;
-
-import com.hrupin.calendardayviewalgorithm.Event;
+package com.hrupin.calendardayviewalgorithm.domain;
 
 import java.util.ArrayList;
 import java.util.List;

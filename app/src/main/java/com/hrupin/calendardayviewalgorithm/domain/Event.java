@@ -1,4 +1,4 @@
-package com.hrupin.calendardayviewalgorithm;
+package com.hrupin.calendardayviewalgorithm.domain;
 
 /**
  * Created by Igor Khrupin www.hrupin.com on 11/22/16.
